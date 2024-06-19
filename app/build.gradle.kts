@@ -9,7 +9,7 @@ android {
 
     defaultConfig {
         applicationId = "com.thatmarcel.apps.suresim"
-        minSdk = 31
+        minSdk = 30
         targetSdk = 34
         versionCode = 1
         versionName = "1.0"
