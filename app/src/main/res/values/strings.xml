@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SureSIM</string>
+    <string name="module_description">LSPosed module to spoof eSIM support</string>
+</resources>
